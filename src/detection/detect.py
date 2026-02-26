@@ -1,6 +1,6 @@
 from ultralytics import YOLO
 
-model = YOLO(r"../../notebooks/runs/detect/train/weights/best.pt")
+model = YOLO(r"D:\TE\Internship\code\models\trained\best_10000_images.pt")
 
 model.predict(
     source="../../data/raw_videos/elephant.mp4",

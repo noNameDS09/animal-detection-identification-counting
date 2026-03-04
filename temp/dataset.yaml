@@ -1,0 +1,28 @@
+# YOLOv8 dataset configuration
+path: /kaggle/input/datasets/shreyashdaware/10000-wildlife-images-dataset-in-yolo-format/v2_10000_images
+
+train: /kaggle/input/datasets/shreyashdaware/10000-wildlife-images-dataset-in-yolo-format/v2_10000_images/train
+val: /kaggle/input/datasets/shreyashdaware/10000-wildlife-images-dataset-in-yolo-format/v2_10000_images/val
+test: /kaggle/input/datasets/shreyashdaware/10000-wildlife-images-dataset-in-yolo-format/v2_10000_images/test
+
+names:
+  0: Squirrel
+  1: Crocodile
+  2: Lizard
+  3: Elephant
+  4: Leopard
+  5: Cheetah
+  6: Deer
+  7: Giraffe
+  8: Snake
+  9: Monkey
+  10: Fox
+  11: Kangaroo
+  12: Lion
+  13: Tiger
+  14: Zebra
+  15: Rhinoceros
+  16: Bear
+  17: Panda
+  18: Hippopotamus
+  19: Otter

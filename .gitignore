@@ -1,2 +1,7 @@
-venv
 /data
+venv/
+__pycache__/
+*.pyc
+data/
+.env
+.DS_Store

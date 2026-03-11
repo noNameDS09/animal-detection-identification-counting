@@ -1,0 +1,238 @@
+{
+    "video_name": "elephanttigercheetah",
+    "total_unique_animals": 42,
+    "species_wise_count": {
+        "Squirrel": 1,
+        "Crocodile": 0,
+        "Lizard": 0,
+        "Elephant": 9,
+        "Leopard": 12,
+        "Cheetah": 14,
+        "Deer": 4,
+        "Giraffe": 0,
+        "Snake": 0,
+        "Monkey": 0,
+        "Fox": 0,
+        "Kangaroo": 0,
+        "Lion": 0,
+        "Tiger": 1,
+        "Zebra": 1,
+        "Rhinoceros": 0,
+        "Bear": 0,
+        "Panda": 0,
+        "Hippopotamus": 0,
+        "Otter": 0
+    },
+    "detailed_records": [
+        {
+            "species": "Squirrel",
+            "track_id": 23,
+            "first_appearance_sec": 10.48
+        },
+        {
+            "species": "Elephant",
+            "track_id": 1,
+            "first_appearance_sec": 0.08
+        },
+        {
+            "species": "Elephant",
+            "track_id": 2,
+            "first_appearance_sec": 0.08
+        },
+        {
+            "species": "Elephant",
+            "track_id": 3,
+            "first_appearance_sec": 0.08
+        },
+        {
+            "species": "Elephant",
+            "track_id": 4,
+            "first_appearance_sec": 0.08
+        },
+        {
+            "species": "Elephant",
+            "track_id": 5,
+            "first_appearance_sec": 0.12
+        },
+        {
+            "species": "Elephant",
+            "track_id": 8,
+            "first_appearance_sec": 1.72
+        },
+        {
+            "species": "Elephant",
+            "track_id": 15,
+            "first_appearance_sec": 4.27
+        },
+        {
+            "species": "Elephant",
+            "track_id": 16,
+            "first_appearance_sec": 4.95
+        },
+        {
+            "species": "Elephant",
+            "track_id": 17,
+            "first_appearance_sec": 5.12
+        },
+        {
+            "species": "Leopard",
+            "track_id": 34,
+            "first_appearance_sec": 14.92
+        },
+        {
+            "species": "Leopard",
+            "track_id": 36,
+            "first_appearance_sec": 15.52
+        },
+        {
+            "species": "Leopard",
+            "track_id": 37,
+            "first_appearance_sec": 15.83
+        },
+        {
+            "species": "Leopard",
+            "track_id": 43,
+            "first_appearance_sec": 17.72
+        },
+        {
+            "species": "Leopard",
+            "track_id": 44,
+            "first_appearance_sec": 17.78
+        },
+        {
+            "species": "Leopard",
+            "track_id": 46,
+            "first_appearance_sec": 18.6
+        },
+        {
+            "species": "Leopard",
+            "track_id": 50,
+            "first_appearance_sec": 21.02
+        },
+        {
+            "species": "Leopard",
+            "track_id": 52,
+            "first_appearance_sec": 22.55
+        },
+        {
+            "species": "Leopard",
+            "track_id": 54,
+            "first_appearance_sec": 22.53
+        },
+        {
+            "species": "Leopard",
+            "track_id": 27,
+            "first_appearance_sec": 13.38
+        },
+        {
+            "species": "Leopard",
+            "track_id": 30,
+            "first_appearance_sec": 14.02
+        },
+        {
+            "species": "Leopard",
+            "track_id": 31,
+            "first_appearance_sec": 14.27
+        },
+        {
+            "species": "Cheetah",
+            "track_id": 34,
+            "first_appearance_sec": 14.88
+        },
+        {
+            "species": "Cheetah",
+            "track_id": 36,
+            "first_appearance_sec": 15.55
+        },
+        {
+            "species": "Cheetah",
+            "track_id": 37,
+            "first_appearance_sec": 15.73
+        },
+        {
+            "species": "Cheetah",
+            "track_id": 41,
+            "first_appearance_sec": 16.4
+        },
+        {
+            "species": "Cheetah",
+            "track_id": 43,
+            "first_appearance_sec": 17.65
+        },
+        {
+            "species": "Cheetah",
+            "track_id": 44,
+            "first_appearance_sec": 17.77
+        },
+        {
+            "species": "Cheetah",
+            "track_id": 46,
+            "first_appearance_sec": 18.38
+        },
+        {
+            "species": "Cheetah",
+            "track_id": 47,
+            "first_appearance_sec": 20.18
+        },
+        {
+            "species": "Cheetah",
+            "track_id": 50,
+            "first_appearance_sec": 21.03
+        },
+        {
+            "species": "Cheetah",
+            "track_id": 52,
+            "first_appearance_sec": 21.73
+        },
+        {
+            "species": "Cheetah",
+            "track_id": 54,
+            "first_appearance_sec": 22.33
+        },
+        {
+            "species": "Cheetah",
+            "track_id": 27,
+            "first_appearance_sec": 13.45
+        },
+        {
+            "species": "Cheetah",
+            "track_id": 30,
+            "first_appearance_sec": 13.88
+        },
+        {
+            "species": "Cheetah",
+            "track_id": 31,
+            "first_appearance_sec": 14.15
+        },
+        {
+            "species": "Deer",
+            "track_id": 41,
+            "first_appearance_sec": 16.62
+        },
+        {
+            "species": "Deer",
+            "track_id": 42,
+            "first_appearance_sec": 16.63
+        },
+        {
+            "species": "Deer",
+            "track_id": 51,
+            "first_appearance_sec": 21.33
+        },
+        {
+            "species": "Deer",
+            "track_id": 55,
+            "first_appearance_sec": 23.3
+        },
+        {
+            "species": "Tiger",
+            "track_id": 22,
+            "first_appearance_sec": 6.47
+        },
+        {
+            "species": "Zebra",
+            "track_id": 22,
+            "first_appearance_sec": 8.67
+        }
+    ]
+}

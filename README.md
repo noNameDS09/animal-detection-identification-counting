@@ -2,14 +2,44 @@
 
 This repository contains the codebase for the **Animal Detection, Identification, and Counting** internship assignment.
 
-The system relies on an Ultralytics YOLOv8 object detection model fine-tuned on a custom dataset, integrated with ByteTrack to assign unique identifiers and count species appearing in video footage without duplicate counts.
+The system relies on an Ultralytics YOLOv26 object detection model fine-tuned on a custom dataset, integrated with ByteTrack to assign unique identifiers and count species appearing in video footage without duplicate counts.
+
+Following are the animals detected by the system:
+
+- Elephant
+- Tiger
+- Deer
+- Monkey
+- Bear
+- Lion
+- Leopard
+- Cheetah
+- Jaguar
+- Zebra
+- Giraffe
+- Hippopotamus
+- Rhinoceros
+- Wolf
+- Fox
+- Hyena
+- Gorilla
+- Chimpanzee
+- Baboon
+- Crocodile
+- Alligator
+- Snake
+- Lizard
+- Kangaroo
+- Panda
+- Otter
+- Squirrel
 
 ## Features
 
 - **Object Detection:** Detects animals in video streams using YOLO.
 - **Multi-Object Tracking:** Assigns unique IDs to animals using ByteTrack to prevent duplicate counting during occlusion or movement.
 - **Automated Reporting:** Outputs a frame-wise presence CSV and a final summary report (JSON and CSV) recording total unique animals and their first appearance timestamp.
-- **Unit Testing:** Comprehensive pytest suite to validate counting logic and reporting format correctness.
+
 
 ## Installation
 

@@ -37,15 +37,7 @@ _Note: You may need to edit `counter.py`'s `__init__` block at the bottom of the
 
 Once the video finishes (or is interrupted by pressing `q`), the generation scripts will automatically output the CSV and JSON reports into the `outputs/` folder.
 
-## Running Tests
 
-To run the automated integration tests:
-
-```bash
-python -m pytest tests
-```
-
-This will spin up the mock frame tracking data in `test_reporting.py` and run the model natively against a subset of frames in `test_counting.py`. Note: `test_counting.py` expects a designated test video to reside at `data/raw_videos/elephanttigercheetah.mov`.
 
 ## Project Structure
 
